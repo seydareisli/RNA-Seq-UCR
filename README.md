@@ -1,6 +1,6 @@
-# Differential Expression Analysis using DESeq
+# RNA-Seq Data Analyses
 
-This repository utilizes the DESeq package in R to perform differential gene expression analysis on RNA-Seq data. It contains materials, scripts, and reflections from my internship at the Bioinformatics Department of the University of California Riverside (UCR) in 2012. The internship focused on differential gene expression analysis using R and Bioconductor. A week-by-week detailed breakdown of activities and learnings from each week of the internship is provided in the repository.
+This repository utilizes R to perform differential gene expression analysis on RNA-Seq data. It contains materials, scripts, and reflections from my internship at the Bioinformatics Department of the University of California Riverside (UCR) in 2012. The internship focused on differential gene expression analysis using R and Bioconductor. A week-by-week detailed breakdown of activities and learnings from each week of the internship is provided in the repository.
 
 ## Table of Contents
 
